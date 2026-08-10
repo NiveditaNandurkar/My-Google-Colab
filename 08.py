@@ -1,6 +1,5 @@
 # 8. To write a Python program to display the multiplication table of a given
 # number.
-
 num = int(input("Enter a number: "))
 limit = int(input("Enter the limit for the multiplication table (e.g., 10): "))
 
