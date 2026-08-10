@@ -1,7 +1,6 @@
 # 15. To write a Python program to count the number of digits in a given integer.
 
 num_input = input("Enter an integer: ")
-
 try:
     # Convert input to an integer
     num_int = int(num_input)
