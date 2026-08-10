@@ -1,5 +1,4 @@
 # 12. To write a Python program to print numbers in reverse order from N to 1.
-
 num = int(input("Enter a positive integer (N): "))
 
 if num < 1:
