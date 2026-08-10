@@ -1,7 +1,6 @@
 # 14. To write a Python program to reverse the digits of a given number.
 
 num_str_input = input("Enter an integer: ")
-
 try:
     # Convert to integer to handle potential leading zeros gracefully if it were a string like '007'
     num_int = int(num_str_input)
