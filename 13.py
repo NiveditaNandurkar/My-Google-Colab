@@ -1,7 +1,6 @@
 # 13. To write a Python program to print all even numbers up to a given limit.
 
 limit = int(input("Enter an upper limit: "))
-
 if limit < 1:
     print("Please enter a positive integer as the limit.")
 else:
