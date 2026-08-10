@@ -1,7 +1,6 @@
 # 10. To write a Python program to find the sum of the first N natural numbers.
 
 n = int(input("Enter a positive integer (N): "))
-
 if n < 1:
     print("Please enter a positive integer.")
 else:
