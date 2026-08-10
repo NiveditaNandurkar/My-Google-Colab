@@ -3,7 +3,6 @@
 num = int(input("Enter a non-negative integer: "))
 
 factorial = 1
-
 # check if the number is negative, zero or positive
 if num < 0:
     print("Factorial does not exist for negative numbers.")
