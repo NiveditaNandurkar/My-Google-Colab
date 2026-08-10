@@ -1,7 +1,6 @@
 # 19. To write a Python program to check whether a string is a palindrome.
 
 input_string = input("Enter a string: ")
-
 # Remove non-alphanumeric characters and convert to lowercase for a case-insensitive and punctuation-insensitive check
 processed_string = "".join(char for char in input_string if char.isalnum()).lower()
 
