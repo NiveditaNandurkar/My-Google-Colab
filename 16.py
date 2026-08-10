@@ -1,7 +1,6 @@
 # 16. To write a Python program to calculate the sum of digits of a given number.
 
 num_input = input("Enter an integer: ")
-
 try:
     num_int = int(num_input)
     original_num = num_int
