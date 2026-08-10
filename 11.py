@@ -1,7 +1,6 @@
 # 11. To write a Python program to print numbers from 1 to N using a for loop.
 
 num = int(input("Enter a positive integer (N): "))
-
 if num < 1:
     print("Please enter a positive integer.")
 else:
