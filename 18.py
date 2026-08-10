@@ -1,7 +1,6 @@
 # 18. To write a Python program to generate the Fibonacci series up to N terms.
 
 n_terms = int(input("Enter the number of terms for the Fibonacci series: "))
-
 a, b = 0, 1
 count = 0
 
