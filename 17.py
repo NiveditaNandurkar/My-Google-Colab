@@ -1,7 +1,6 @@
 # 17. To write a Python program to check whether a given number is prime.
 
 num = int(input("Enter a positive integer: "))
-
 # Prime numbers are greater than 1
 if num <= 1:
     print(f"{num} is not a prime number.")
