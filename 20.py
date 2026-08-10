@@ -1,6 +1,5 @@
 # 20. To write a Python program to check whether a given number is an Armstrong
 # number.
-
 num_str = input("Enter a positive integer: ")
 
 try:
